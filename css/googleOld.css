@@ -1,0 +1,61 @@
+img{
+    height: 113px;
+    width: 351px;
+    display: block;
+    margin: 0 auto;
+}
+div.aramacubugu>p
+{
+    text-align: center;
+}
+div.aramacubugu>input{
+    display: block;
+    margin: 0 auto;
+}
+.clearBoth{
+    clear: both;
+}
+div.aramacubugu>input.yanyana{
+    float: left;
+}
+.butonlar{
+    width: 230px;
+    margin: 0 auto;
+}
+
+.merkez{
+    width: 1500px;
+    
+    margin: 0 auto;
+}
+.sol{
+    width: 35%;
+    float: left;
+    background-color: aqua;
+    text-align: center;
+    margin-right: 4px;
+    height: 80px;
+}
+.sol>p{
+    padding: 0;
+    margin: 0;
+}
+.orta{
+    width: 15%;
+    float: left;
+    background-color: aqua;
+    text-align: center;
+    margin-right: 4px;
+    height: 80px;
+}
+.sag{
+    width: 49%;
+    float: left;
+    background-color: aqua;
+    text-align: center;
+    height: 80px;
+}
+.sag>p{
+    padding: 0;
+    margin: 0;
+}
